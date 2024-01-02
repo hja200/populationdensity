@@ -1,0 +1,92 @@
+Number on map ,Address,County,Location,Latitude,Longitude
+69,"4 W View Rd, Keynsham, Bristol BS31 1BS",Bath and North Somerset,Keynsham,51.413734,-2.502252
+75,"11 Bindery Walk, Paulton, Bristol BS39 7AZ",Bath and North Somerset,Paulton,51.310677,-2.503448
+78,"Cleveland Bridge, Bath BA2 6PU",Bath and North Somerset,Bath,51.388972,-2.355009
+62,"The Concept Centre, Innovation Cl, Poole BH12 4QD","Bournemouth, Christchurch and Poole",Poole,50.742853,-1.952602
+63,"38 Portchester Rd, Bournemouth BH8 8JY","Bournemouth, Christchurch and Poole",Bournemouth,50.730045,-1.866448
+64,"Bingham Rd, Christchurch BH23 5AH","Bournemouth, Christchurch and Poole",Christchurch,50.737651,-1.7556
+70,"Croydon St, Easton, Bristol BS5 0DA",Bristol,Bristol,51.459143,-2.567712
+1,"St John's Hall, Alverton Road, Penzance TR18 2QW",Cornwall,Penzance,50.11843,-5.53906
+2,"89-99, Commercial Road, Hayle TR27 4DE",Cornwall,Hayle,50.18955,-5.41657
+3,Meneage Road Helston Cornwall TR13 8DR ,Cornwall,Helston,50.0954,-5.26846
+4,"Trevaylor Road, Falmouth, TR11 2JY",Cornwall,Falmouth,50.15654,-5.08767
+5,"Barncoose Terrace, Redruth TR15 3ER",Cornwall,Redruth,50.23059,-5.24451
+6,"Heron Way, Newham, Truro TR1 2XN",Cornwall,Truro,50.2501183,-5.0453758
+8,"St Thomas' Rd, Newquay TR7 1RS",Cornwall,Newquay,50.412328,-5.077868
+9,"Carlyon Rd, Saint Austell PL25 4LD",Cornwall,St. Austell,50.34107,-4.78099
+10,"Brooklyn Garage, Wadebridge Ambulance Station, Wadebridge PL27 7AT",Cornwall,Wadebridge,50.514852,-4.836039
+11,"Barn Ln, Bodmin PL31 1LQ",Cornwall,Bodmin,50.469093,-4.729056
+12,"Brookside, St Breward, Bodmin PL30 4LN",Cornwall,Camelford,50.559087,-4.690252
+13,"20 Greenbank Rd, Liskeard PL14 3DP",Cornwall,Liskeard,50.457539,-4.463924
+14,Launceston PL15 9HT,Cornwall,Launceston,50.626206,-4.35874
+15,"Higher Port View, Saltash PL12 4BU",Cornwall,Saltash,50.407562,-4.215672
+16,"UK, Torpoint",Cornwall,Torpoint,50.374564,-4.225108
+18,"55 Drake Mills Business Park, Estover Rd, Plymouth PL6 7PS",Plymouth,Derriford,50.417831,-4.090383
+19,"Abbey Rise, Tavistock, PL19 9FD",Devon,Tavistock,50.545805,-4.145976
+20,"7 Eastern Road, Ashburton, Newton Abbot, TQ13 7AP",Devon,Ashburton,50.519059,-3.748595
+21,"Station Rd, Totnes TQ9 5 ",Devon,Totnes,50.432022,-3.683698
+22,"Plymouth road, Kingsbridge TQ7 1AT",Devon,Kingsbridge,50.29308,-3.7866
+23,"College Way, Dartmouth TQ6 9SL",Devon,Dartmouth,50.353523,-3.583755
+27,"The Avenue, Town Centre, Newton Abbot TQ12 2DD",Devon,Newton Abbot,50.53163,-3.60323
+28,"Oak Hill, Dawlish EX7 9QZ",Devon,Dawlish,50.578636,-3.479402
+30,Bideford Daddon Court Unit 1 Daddon Court Clovelly Road Industrial Estate  Bideford Devon EX39 3FH,Devon,Bideford,51.01006,-4.23246
+31,"1 Hameldown Rd, Exeter Road Industrial Estate, Okehampton EX20 1UB",Devon,Okehampton,50.742622,-3.977716
+32,"Abbey Ct, Eagle Way, Sowton Industrial Estate, Exeter EX2 7HY",Devon,Exeter,50.720485,-3.465387
+33,"Western Rd, Crediton EX17 3NH",Devon,Crediton,50.792421,-3.672729
+34,"4 Lauder Ln, Roundswell, Barnstaple EX31 3TA",Devon,Barnstaple,51.06363,-4.084238
+35,"St Brannock's Park Rd, Ilfracombe EX34 8JF",Devon,Ilfracombe,51.204758,-4.124342
+36,"Widgery Dr, South Molton EX36 4DP",Devon,South Moulton,51.017065,-3.838201
+37,"Hill Crest, Tiverton EX16 6AT",Devon,Tiverton,50.906761,-3.4818
+38,"8, Meadow Place, Hitchcocks Business Park, Uffculme, Cullompton EX15 3FA",Devon,Cullompton,50.902366,-3.351997
+39,"192 Salterton Rd, Exmouth EX8 5BN",Devon,Exmouth,50.631236,-3.373495
+40,"King's Down Tail, Salcombe Regis, Sidmouth EX10 0PD",Devon,Sidmouth,50.708252,-3.177374
+41,"Heathpark Way, Heathpark Industrial Estate, Heathpark Industrial Estate, Honiton EX14 1BB",Devon,Hointon,50.792237,-3.209329
+42,"Axminster Hospital, Chard Rd, Chard St, Axminster EX13 5DU",Devon,Axminster,50.783819,-2.996388
+96,"Dakota Way, Skypark, Exeter EX5 2FL",Devon,Exeter,50.720568,-3.464827
+53,"Bridport Ambulance Station Unit 2b, Gore Cross Business Park, Corbin Way, Bradpole, BRIDPORT, DT6 3UX",Dorset,Bridport,50.747818,-2.745126
+54,"Souter Way, Weymouth DT3 5BJ",Dorset,Weymouth,50.632801,-2.459456
+55,"Dorchester Ambulance Station, 27 Lubbecke Way, Dorchester DT1 1QL",Dorset,Dorchester,50.713302,-2.424942
+56,"Granville Way, Sherborne DT9 4JN",Dorset,Sherbourne,50.954782,-2.507074
+57,"Wareham Town, Wareham BH20 4PG",Dorset,Wareham,50.686976,-2.116176
+58,"Swanage Ambulance Station, 28 Queens Road, SWANAGE, BH19 2ER",Dorset,Swanage,50.606644,-1.961933
+60,"43 Bimport, Shaftesbury SP7 8AZ",Dorset,Shaftesbury,51.00519,-2.201618
+61,"Wimborne Minster, Wimborne BH21 1AS",Dorset,Wimborne,50.800281,-1.983448
+86,"Kingshill Ln, Dursley GL11 5QF",Gloucestershire,Dursley,51.687809,-2.359861
+87,"Church Rd, Lydney GL15 5EA",Gloucestershire,Lydney ,51.722816,-2.536019
+88,Stroud GL5 4JT,Gloucestershire,Stroud,51.746285,-2.238613
+89,Cirencester GL7 1UX,Gloucestershire,Cirencester,51.712039,-1.973782
+90,"6 Cinder Hill, Coleford GL16 8HL",Gloucestershire,Coleford,51.79135,-2.617252
+91,Cinderford GL14 2TT,Gloucestershire,Cinderford,51.816544,-2.492112
+92,"Westgate House, 15 Westgate St, Gloucester GL1 2RU",Gloucestershire,Gloucester South,51.865562,-2.246737
+93,"Commerce Rd, Gloucester GL2 9QJ",Gloucestershire,Staverton,51.898489,-2.172969
+94,"Oldbury Rd, Tewkesbury GL20 5LJ",Gloucestershire,Tewkesbury,51.99356,-2.155932
+95,Moreton-in-Marsh GL56 0DP,Gloucestershire,Moreton in Marsh,51.987476,-1.705934
+7,"St Mary's, Isles Of Scilly, Isles Of Scilly, TR21 0JY",Isles of Scilly,St Marys ,49.916119,-6.308144
+66,"Drove Rd., Weston-super-Mare BS23 3NT",North Somerset,Weston-Super-Mare,51.339841,-2.969043
+67,"5 Turnpike Cl, Churchill, Winscombe BS25 5NZ",North Somerset,Churchill,51.336003,-2.792668
+68,"47 Clevedon Rd, Nailsea, Bristol BS48 1HA",North Somerset,Nailsea,51.437755,-2.763156
+43,"Townsend Rd, Minehead TA24 6DS",Somerset,Minhead,51.199522,-3.471248
+44,"Lisieux Way, Taunton TA1 2LB",Somerset,Taunton,51.014863,-3.080917
+45,"4 Butts, Ilminster TA19 0AX",Somerset,Ilminster,50.928259,-2.910511
+46,"47 Reckleford, Yeovil BA20 1JF",Somerset,Yeovil,50.943192,-2.62701
+47,"Woodlands Ct, Bridgwater TA6 4FJ",Somerset,Bridgewater,51.155017,-2.985926
+48,Burnham-on-Sea TA8 1EU,Somerset,Burham,51.155017,-2.985926
+50,Glastonbury BA6 9NS,Somerset,Glastonbury,51.143303,-2.731777
+51,Shepton Mallet BA4 5DX,Somerset,Shepton Mallet,51.189831,-2.550301
+71,"400 North Way, Filton, Bristol BS34 7QH",South Gloucestershire,NBOC,51.518482,-2.568059
+72,"5 Oaklands Dr, Almondsbury, Bristol BS32 4AB",South Gloucestershire,Almondsbury,51.551055,-2.571111
+73,"Lansdown Rd, Bristol BS15 1PX",South Gloucestershire,Soundwell,51.47033,-2.509261
+74,"Yate, Bristol BS37 4BE",South Gloucestershire,Yate,51.541466,-2.509261
+85,"St Josephs School House, Queen's Dr, Swindon SN3 1AR",Swindon,Swindon,51.562719,-1.768916
+24,"St. John House, Penn Meadows, Brixham TQ5 9PW",Torbay,Brixham,50.38872,-3.51266
+25,"37 Smallcombe Road, Paignton TQ3 3SP",Torbay,Paignton,50.442964,-3.586598
+26,"Lawes Bridge, Newton Road, Torquay, TQ2 7BP",Torbay,Torquay,50.482712,-3.55166
+52,"Unit 3 Millards Way, Standerwick, Frome, Warminster BA11 2PL",Wiltshire,Frome,51.228773,-2.197589
+76,"Unit 9, Swan Business Park, Warminster BA12 8SR",Wiltshire,Warminster,51.213143,-2.191325
+77,"House Office, Throope Down Barn, Salisbury SP5 4LN",Wiltshire,Salisbury,51.011122,-1.870167
+79,"5 Hilperton Rd, Trowbridge BA14 7JB",Wiltshire,Trowbridge,51.322822,-2.200887
+80,"Suite 10, Minton House, Minton Distribution Park, London Rd, Amesbury, Salisbury SP4 7RT",Wiltshire,Amesbury,51.176027,-1.764985
+81,"Malmesbury Road, Chippenham, Wiltshire, SN15 5LN",Wiltshire,Chippenham,51.472629,-2.125164
+82,"Bridewell St, Devizes SN10 1NE",Wiltshire,Devizes,51.34946,-1.992485
+83,"Old Station Mews, Malmesbury SN16 9JS",Wiltshire,Malmesbury,51.588687,-2.10012
+84,"29 Stonebridge Cl, Marlborough SN8 2AE",Wiltshire,Marlborough,51.420852,-1.719216
